@@ -7,7 +7,7 @@ public class Employee {
 	}
 	
 	private void empName() {
-		System.out.println("Employee Name is ANAND RAJ");
+		System.out.println("Employee Name is ANAND RAJ DR");
 	}
 	private void empDob() {
 		System.out.println("Employee DOB is 01/06/1995");

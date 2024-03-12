@@ -16,7 +16,7 @@ public class Employee {
 		System.out.println("Employee Email is sv.avinash72@gmail.com");
 	}
 	private void empAddress() {
-		System.out.println("Employee Address is Tiruvottiyur");
+		System.out.println("Employee Address is TvT");
 	}
 	public static void main(String[] args) {
 		Employee details=new Employee();

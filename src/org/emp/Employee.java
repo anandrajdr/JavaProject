@@ -7,16 +7,16 @@ public class Employee {
 	}
 	
 	private void empName() {
-		System.out.println("Employee Name is ANAND RAJ D");
+		System.out.println("Employee Name is ANAND RAJ");
 	}
 	private void empDob() {
 		System.out.println("Employee DOB is 01/06/1995");
 	}
 	private void empEmail() {
-		System.out.println("Employee Email is sv.avinash72@gmail.com");
+		System.out.println("Employee Email is eranandrajdr@gmail.com");
 	}
 	private void empAddress() {
-		System.out.println("Employee Address is TvT");
+		System.out.println("Employee Address is Thiruvallur");
 	}
 	public static void main(String[] args) {
 		Employee details=new Employee();
